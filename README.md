@@ -41,4 +41,4 @@ This code has functionalities only for the 1st and 3rd floor and has some bugs.T
 
 Below is a photo with the assembled homework.
 
-![Tema 2](./Imagini/tema3.jpeg)
+![Tema 2](./Imagini/tema3.jpg)
