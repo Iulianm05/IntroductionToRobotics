@@ -4,8 +4,9 @@ This is my repository that will contain all the assignments from the **"Introduc
 
 # Homeworks
 
-## Homework 1
-
+<details>
+<summary><h2> Homework 2</summary>
+<br>
 This assignment focuses on controlling an RGB LED using three potentiometers (one for each color).
 
 
@@ -24,9 +25,13 @@ Photo with first homework:
 
 
 This is the video with first homework: https://www.youtube.com/watch?v=EDOw4xzkUVw&ab_channel=IulianMarin
+</details>
 
 
-## Homework 2
+
+<details>
+<summary><h2> Homework 3</summary>
+<br>
 This assignment involves simulating a 3-floor elevator control system using
 LEDs, buttons, and a buzzer with Arduino.
 
@@ -41,4 +46,34 @@ This code has functionalities only for the 1st and 3rd floor and has some bugs.T
 
 Below is a photo with the assembled homework.
 
-![Tema 2](./Imagini/tema3.jpg)
+![Tema 2](./Imagini/tema2.jpg)
+
+
+</details>
+
+<details>
+<summary><h2> Homework 4</summary>
+<br>
+This project involves implementing a 7-segment display using Arduino, where you can 'draw' by lighting up segments one by one.
+
+**General description:** We will use the joystick to control the position of the segment and 'draw' on the display. The movement between segments should be natural, meaning they should transition from the current position only to neighboring segments, without passing through 'walls'.
+
+**Components**:
+* 7 segment display (1)
+* 1 joystick
+* resistors and wires
+
+**Requirement**: The initial position should be on the DP. The current
+position always blinks (irrespective of the fact that the segment is on or
+off). Use the joystick to move from one position to neighbors (see table for
+corresponding movement). Short pressing the button toggles the segment
+state from ON to OFF or from OFF to ON. Long pressing the button
+resets the entire display by turning all the segments OFF and moving the
+current position to the decimal point.
+![Tema 4](./Imagini/tema3.jpg)
+
+Link with the video: [here](https://youtube.com/shorts/8ki4eayzJKo)
+
+</details>
+
+
