@@ -130,3 +130,52 @@ Link with the video: [here](https://www.youtube.com/shorts/0NJ0U_hqhgI)
 </details>
 
 
+
+<details>
+<summary><h2> Homework 6</summary>
+<br>
+The purpose of this assignment was to implement a menu through Arduino's serial communication to control various parameters of sensors. Specifically, we had to develop a '<i>Smart Environment Monitor and Logger</i>' using Arduino
+
+To accomplish this assignment, I needed the following:
+* Ultrasonic Sensor (HC-SR04)
+* LDR (Light-Dependent Resistor) aka Photocell aka Photoresistor aka Light
+Sensor
+* RGB Led
+
+The menu structure is as follows (text taken from the assignment):
+
+<b>1.Sensor Settings:</b>
+
+* 1.1 Adjust Sensors Sampling Interval.
+* 1.2 Set Ultrasonic Alert Threshold.
+* 1.3 Set LDR (Light Dependent Resistor) Alert Threshold.
+* 1.4 Return to the main menu.
+
+<b>2.Reset Logger Data:</b>
+* 2.1 Confirm Data Reset (Yes).
+* 2.2 Confirm Data Reset (No).
+
+**3.System Status:**
+* 3.1 Display Current Sensor Readings.
+* 3.2 Display Current Sensor Settings.
+        
+* 3.3 Display Logged Data.
+* 3.4 Return to the main menu.
+
+**4.RGB LED Control:**
+* 4.1 Manual Color Control.
+* 4.2 Toggle Automatic Mode for LED.
+* 4.3 Return to the main menu.
+
+
+Link with the video: [here](https://www.youtube.com/watch?v=kUFAfjDHYBo)
+
+Photos:
+
+![Tema 6](./Imagini/tema6_1.jpg)
+![Tema 6_2](./Imagini/tema6_2.jpg)
+
+
+</details>
+
+
