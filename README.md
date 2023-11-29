@@ -179,3 +179,26 @@ Photos:
 </details>
 
 
+<details>
+<summary><h2> Homework 7</summary>
+<br>
+For this homework, I implemented a <i>mini matrix game</i> using Arduino. The game must have at least 3 types
+of elements: <b>player</b> (blinks slowly), <b>bombs</b> (blinks fast), <b>wall</b> (doesn’t
+blink).
+
+The created mini-game resembles Bomberman. A player moves on the map (using a joystick), trying to break all the walls using a bomb. The time during which the player can move away from the bomb from the moment of placement is 3 seconds.If the player succeeds to destroy all the walls, he will win. If the player is within the bomb's blast radius during detonation, he will lose the game.
+
+**Components Required:**
+
+* Arduino Uno
+* Matrix 8x8
+* Joystick
+* Driver Max7219
+* Resistors and capacitors as needed
+
+Link with the video: [here](https://www.youtube.com/watch?v=4rCxRH2-8Ak)
+
+
+![Tema 7](./Imagini/tema7.jpg)
+
+</details>
