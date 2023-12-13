@@ -202,3 +202,25 @@ Link with the video: [here](https://www.youtube.com/watch?v=4rCxRH2-8Ak)
 ![Tema 7](./Imagini/tema7.jpg)
 
 </details>
+
+
+<details>
+<summary><h2> Homework 8</summary>
+<br>
+For this homework, I implement a "mini" LCD Menu for the final project with matrix. This menu contain:
+
+**Introduction**
+* Initiate the game and begin at the initial level.
+
+**Menu Options**
+* **Start Game** - Initiate the game and begin at the initial level.
+*  **Settings** 
+1. LCD Brightness Control - Adjust LCD brightness, save the preference for future use.
+2. Matrix Brightness Control - Control matrix brightness with a visual display, saving the chosen setting for consistent use.
+
+Link with the video: [here](https://www.youtube.com/watch?v=s7_bhGq-qnM)
+
+
+![Tema 7](./Imagini/tema8.jpg)
+
+</details>
